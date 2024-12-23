@@ -46,11 +46,6 @@ This project is a simple **Temperature Converter** web application that converts
 
 ---
 
-## Project Demo
-- You can use the live version of this project [here](#) (Replace `#` with your deployed URL).
-
----
-
 ## How to Run Locally
 1. Clone this repository:
    ```bash
